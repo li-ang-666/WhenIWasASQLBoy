@@ -1,0 +1,13 @@
+#忽略所有target目录
+target/
+#忽略所有.idea目录
+.idea/
+#忽略所有.iml .DS_store文件
+*.iml
+*.DS_Store
+
+
+
+## git rm -r --cached .
+## git add .
+## git commit -m 'update .gitignore'
